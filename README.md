@@ -58,23 +58,27 @@ An AI-powered screenplay intelligence project developed as part of **VERSE**, th
 
 ## ⚒️ Tech Stack
 
-**Languages**  
-Python · TypeScript · JavaScript · Java
+### Languages
 
-**AI / ML**  
-LLMs · RAG · Fine-tuning · NLP · Transformers · Scikit-learn
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**Agent Frameworks**  
-Google ADK · Agentic Workflows · A2A · MCP
+### AI / ML & Data
 
-**Backend**  
-FastAPI · Node.js · PostgreSQL · Redis
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-**Frontend**  
-React · Next.js · React Native · Vite · Tailwind CSS
+**LLMs · RAG · Fine-tuning · NLP · Transformers · Model Evaluation · Local Inference**
 
-**Infrastructure**  
-Docker · GitHub Actions · Git
+### Agent Frameworks
+
+**Google ADK · Agentic Workflows · A2A · MCP**
+
+### Web & Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### Backend & Infrastructure
+
+**FastAPI · PostgreSQL · Redis · Docker · GitHub Actions · Git**
 
 ---
 
