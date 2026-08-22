@@ -2,15 +2,30 @@
 
 # Hey, I'm Arslaan 👋
 
-### AI Engineer • Agentic AI • LLM Systems
+### AI Engineer · Agentic AI · LLM Systems · AI Coding Agents
 
-I build intelligent systems that can **reason, act, use tools, and verify their work.**
+I build intelligent systems that **reason, act, use tools, verify results, and operate under constraints.**
 
-Exploring the intersection of **AI Agents, LLM Engineering, Code Intelligence, Safety, and AI-native products.**
+Exploring the intersection of **Agentic AI, LLM Engineering, AI Software Engineering, Code Intelligence, Safety, and AI-native products.**
 
 [![Email](https://img.shields.io/badge/Email-ayubarslaan%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ayubarslaan@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohd_Arslaan_Ayub-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-arslaan-ayub/)
 
 </div>
+
+---
+
+## ⚡ Built With AI
+
+I actively use AI-native development environments to design, build, debug, and iterate on real software systems.
+
+| Project | AI Development Environment |
+|---|---|
+| 🤖 **ForgePilot** | **OpenAI Codex** |
+| 🏥 **MediGuard** | **Antigravity · Google ADK · Google Cloud** |
+| 🏛️ **Memory Museum** | **Replit · Replit Designathon** |
+| 🎬 **Continuity Script Intelligence** | **IBM Bob · VERSE** |
+
+These projects reflect hands-on experience building with different AI-native engineering ecosystems—not just experimenting with models.
 
 ---
 
@@ -19,7 +34,31 @@ Exploring the intersection of **AI Agents, LLM Engineering, Code Intelligence, S
 ### 🤖 [ForgePilot](https://github.com/ayubarslaan/ForgePilot)
 **Autonomous Software Engineering Platform · Built with OpenAI Codex · Sidequest**
 
-An AI engineering team that turns a GitHub issue into a reviewed pull request through specialized agents, workflow orchestration, testing, verification, and human approval. **ForgePilot was built entirely using OpenAI Codex as the primary coding agent.**
+> **An AI software engineering team, not just a coding assistant.**
+
+Turns a GitHub issue into a supervised engineering workflow through repository intelligence, planning, specialized agents, implementation, testing, review, verification, and human approval. **ForgePilot was built entirely using OpenAI Codex as the primary coding agent.**
+
+```text
+Issue
+  ↓
+Repository Intelligence
+  ↓
+Planning
+  ↓
+Specialized Agents
+  ↓
+Implementation
+  ↓
+Testing
+  ↓
+Security / Review
+  ↓
+Verification
+  ↓
+Human Approval
+  ↓
+Pull Request
+```
 
 `Agent Orchestration` · `GitHub` · `DAG Workflows` · `Verification` · `Human-in-the-loop` · `Codex`
 
@@ -46,39 +85,67 @@ An AI-powered screenplay intelligence project developed as part of the **VERSE e
 
 ---
 
-## 🧠 Areas I'm Exploring
+## 🧠 Engineering Focus
 
-- **Agentic AI** — agent architectures, planning, tool use, multi-agent systems, workflow orchestration
-- **LLM Engineering** — RAG, fine-tuning, evaluation, local inference, structured generation
-- **AI Engineering** — code intelligence, autonomous coding agents, security analysis, verification loops
-- **AI Safety** — safety gates, validation, guardrails, human oversight, reliable agent behavior
-- **AI-native Products** — building useful experiences around intelligent systems
+### 🤖 Agentic Systems
+Agent architectures · Planning · Tool use · Multi-agent systems · Workflow orchestration · A2A · MCP
+
+### 🧩 LLM Engineering
+RAG · Fine-tuning · Evaluation · Local inference · Structured generation · Model benchmarking
+
+### 🛠️ AI Software Engineering
+Coding agents · Repository intelligence · Code generation · Automated testing · Patch verification
+
+### 🔐 AI Safety
+Safety gates · Guardrails · Human-in-the-loop · Output validation · Secure refactoring
+
+### ⚙️ AI Infrastructure
+FastAPI · PostgreSQL · Redis · Docker · GitHub Actions · Cloud deployment
+
+---
+
+## 🔬 Research & Experiments
+
+### Automated Code Vulnerability Detection & Secure Refactoring
+
+Research direction focused on building and evaluating specialized code LLMs for:
+
+- Vulnerability detection and classification
+- Security-focused code understanding
+- RAG over security knowledge
+- Secure code generation and refactoring
+- Automated patch generation
+- Sandbox-based patch verification
+- Benchmarking fine-tuned models against baselines
+
+---
+
+## 🏆 Experiences & Challenges
+
+- 🏆 **Kaggle × Google — 5-Day AI Agents Intensive** — MediGuard
+- 🤖 **Sidequest** — ForgePilot
+- 🎨 **Replit Designathon** — Memory Museum
+- 🧠 **IBM July Challenge / BEMYAAP — VERSE** — Continuity Script Intelligence
 
 ---
 
 ## ⚒️ Tech Stack
 
-### Languages
+### Primary Engineering
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### AI / ML & Data
+### AI / ML
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+**LLMs · RAG · Fine-tuning · Transformers · Agentic AI · Google ADK · A2A · MCP · Model Evaluation · Local Inference**
 
-**LLMs · RAG · Fine-tuning · NLP · Transformers · Model Evaluation · Local Inference**
+### Data & Infrastructure
 
-### Agent Frameworks
+**PostgreSQL · Redis · GitHub Actions · Google Cloud · Git**
 
-**Google ADK · Agentic Workflows · A2A · MCP**
+### Supporting Technologies
 
-### Web & Tools
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-### Backend & Infrastructure
-
-**FastAPI · PostgreSQL · Redis · Docker · GitHub Actions · Git**
+**Java · R · TensorFlow · Scikit-learn · Pandas · NumPy · Django · Flutter · Firebase**
 
 ---
 
@@ -94,6 +161,21 @@ An AI-powered screenplay intelligence project developed as part of the **VERSE e
 
 ---
 
+## 🚧 Currently Building
+
+### ForgePilot
+
+Working toward a more complete closed-loop AI software engineering system:
+
+- Bounded test → review → fix → verify execution
+- Repository memory across runs
+- Approval-aware code changes
+- Stronger patch validation
+- Sandboxed execution and recovery
+- Reliable agent state and observability
+
+---
+
 ## 🌱 Currently Learning
 
 - Advanced agent architectures
@@ -104,7 +186,15 @@ An AI-powered screenplay intelligence project developed as part of the **VERSE e
 
 ---
 
-## 💡 Philosophy
+## 💡 How I Build
+
+> **Prototype → Instrument → Evaluate → Verify → Iterate**
+
+I don't treat LLM output as the final answer. I build systems around models that provide context, use tools, maintain state, validate outputs, recover from failures, and require approval for consequential actions.
+
+---
+
+## 💭 Philosophy
 
 > **Don't just make AI generate. Build systems that can reason, act, verify, and improve.**
 
