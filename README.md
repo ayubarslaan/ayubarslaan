@@ -8,7 +8,7 @@ I build intelligent systems that can **reason, act, use tools, and verify their 
 
 Exploring the intersection of **AI Agents, LLM Engineering, Code Intelligence, Safety, and AI-native products.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ayubarslaan-181717?style=flat&logo=github)](https://github.com/ayubarslaan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohd_Arslaan_Ayub-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-arslaan-ayub/)
+[![Email](https://img.shields.io/badge/Email-ayubarslaan%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ayubarslaan@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohd_Arslaan_Ayub-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-arslaan-ayub/)
 
 </div>
 
