@@ -6,7 +6,7 @@
 
 I build intelligent systems that can **reason, act, use tools, and verify their work.**
 
-Exploring the intersection of **AI Agents, LLM Engineering, Code Intelligence, and AI-native products.**
+Exploring the intersection of **AI Agents, LLM Engineering, Code Intelligence, Safety, and AI-native products.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ayubarslaan-181717?style=flat&logo=github)](https://github.com/ayubarslaan)
 
@@ -22,6 +22,13 @@ Exploring the intersection of **AI Agents, LLM Engineering, Code Intelligence, a
 An AI engineering team that turns a GitHub issue into a reviewed pull request through specialized agents, workflow orchestration, testing, verification, and human approval.
 
 `Agent Orchestration` · `GitHub` · `DAG Workflows` · `Verification` · `Human-in-the-loop`
+
+### 🏥 [MediGuard](https://github.com/ayubarslaan/mediguard)
+**Safety-focused multi-agent healthcare AI system**
+
+A multi-agent clinical AI system built around medication safety analysis, drug interaction checking, allergy screening, dosage validation, patient education, and a mandatory final safety review gate.
+
+`Google ADK` · `Gemini` · `Multi-Agent Systems` · `FastAPI` · `Safety Engineering`
 
 ### 🏛️ [Memory Museum](https://github.com/ayubarslaan/memory-museum)
 **AI-powered digital museum for preserving memories**
@@ -44,6 +51,7 @@ Analyzes screenplays and production documents to extract continuity information 
 - **Agentic AI** — agent architectures, planning, tool use, multi-agent systems, workflow orchestration
 - **LLM Engineering** — RAG, fine-tuning, evaluation, local inference, structured generation
 - **AI Engineering** — code intelligence, autonomous coding agents, security analysis, verification loops
+- **AI Safety** — safety gates, validation, guardrails, human oversight, reliable agent behavior
 - **AI-native Products** — building useful experiences around intelligent systems
 
 ---
@@ -55,6 +63,9 @@ Python · TypeScript · JavaScript · Java
 
 **AI / ML**  
 LLMs · RAG · Fine-tuning · NLP · Transformers · Scikit-learn
+
+**Agent Frameworks**  
+Google ADK · Agentic Workflows · A2A · MCP
 
 **Backend**  
 FastAPI · Node.js · PostgreSQL · Redis
@@ -72,9 +83,10 @@ Docker · GitHub Actions · Git
 | Project | Focus |
 |---|---|
 | 🤖 **ForgePilot** | Agentic software engineering |
+| 🏥 **MediGuard** | Multi-agent AI + safety engineering |
 | 🏛️ **Memory Museum** | AI + product engineering |
 | 🎬 **VERSE** | LLM + document intelligence |
-| 📰 **WELFake Classification** | ML / NLP fundamentals |
+| 📰 **WELFake Classification** | ML / NLP foundations |
 
 ---
 
@@ -83,7 +95,7 @@ Docker · GitHub Actions · Git
 - Advanced agent architectures
 - LLM evaluation and benchmarking
 - Fine-tuning specialized code models
-- Secure AI systems
+- Secure and safety-aware AI systems
 - Autonomous software engineering
 
 ---
