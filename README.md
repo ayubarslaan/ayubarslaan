@@ -38,11 +38,11 @@ Transforms personal memories into immersive museum exhibits with cinematic story
 `AI` · `React Native` · `TypeScript` · `Design Systems` · `AI UX` · `Replit`
 
 ### 🎬 [Continuity Script Intelligence](https://github.com/ayubarslaan/Continuity-script-intelligence)
-**AI screenplay intelligence · Built with IBM Bob · IBM July Challenge / BEMYAAP**
+**AI screenplay intelligence · Built with IBM Bob · IBM July Challenge / BEMYAAP · VERSE**
 
-An AI-powered screenplay intelligence project developed as part of **VERSE**, the **IBM July Challenge / BEMYAAP**, and built with **IBM Bob**. It analyzes screenplays and production documents to extract continuity information and identify potential risks using local IBM Granite / Ollama inference.
+An AI-powered screenplay intelligence project developed as part of the **VERSE ecosystem** and the **IBM July Challenge / BEMYAAP**, and built with **IBM Bob**. It analyzes screenplays and production documents to extract continuity information and identify potential risks using local IBM Granite / Ollama inference.
 
-`IBM Bob` · `IBM Granite` · `Ollama` · `FastAPI` · `LLMs` · `Document Intelligence`
+`IBM Bob` · `VERSE` · `IBM Granite` · `Ollama` · `FastAPI` · `LLMs` · `Document Intelligence`
 
 ---
 
@@ -89,7 +89,7 @@ An AI-powered screenplay intelligence project developed as part of **VERSE**, th
 | 🤖 **ForgePilot** | **OpenAI Codex · Sidequest · Agentic software engineering** |
 | 🏥 **MediGuard** | **Antigravity · Google ADK · Google Cloud · Kaggle × Google** |
 | 🏛️ **Memory Museum** | **Replit · Replit Designathon · AI product engineering** |
-| 🎬 **Continuity Script Intelligence** | **IBM Bob · IBM July Challenge / BEMYAAP · LLM + screenplay intelligence** |
+| 🎬 **Continuity Script Intelligence** | **IBM Bob · VERSE · IBM July Challenge / BEMYAAP · LLM + screenplay intelligence** |
 | 📰 **WELFake Classification** | ML / NLP foundations |
 
 ---
