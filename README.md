@@ -17,11 +17,11 @@ Exploring the intersection of **AI Agents, LLM Engineering, Code Intelligence, S
 ## 🚀 What I'm Building
 
 ### 🤖 [ForgePilot](https://github.com/ayubarslaan/ForgePilot)
-**Autonomous Software Engineering Platform · Sidequest**
+**Autonomous Software Engineering Platform · Built with OpenAI Codex · Sidequest**
 
-An AI engineering team that turns a GitHub issue into a reviewed pull request through specialized agents, workflow orchestration, testing, verification, and human approval.
+An AI engineering team that turns a GitHub issue into a reviewed pull request through specialized agents, workflow orchestration, testing, verification, and human approval. **ForgePilot was built entirely using OpenAI Codex as the primary coding agent.**
 
-`Agent Orchestration` · `GitHub` · `DAG Workflows` · `Verification` · `Human-in-the-loop`
+`Agent Orchestration` · `GitHub` · `DAG Workflows` · `Verification` · `Human-in-the-loop` · `Codex`
 
 ### 🏥 [MediGuard](https://github.com/ayubarslaan/mediguard)
 **5-Day AI Agents Intensive · Kaggle × Google**
@@ -86,7 +86,7 @@ An AI-powered screenplay intelligence project developed as part of **VERSE**, th
 
 | Project | Context / Focus |
 |---|---|
-| 🤖 **ForgePilot** | Sidequest · Agentic software engineering |
+| 🤖 **ForgePilot** | **Built with OpenAI Codex · Sidequest · Agentic software engineering** |
 | 🏥 **MediGuard** | Kaggle × Google · 5-Day AI Agents Intensive |
 | 🏛️ **Memory Museum** | **Built with Replit · Replit Designathon · AI product engineering** |
 | 🎬 **Continuity Script Intelligence** | VERSE / IBM July Challenge / BEMYAAP · LLM + screenplay intelligence |
