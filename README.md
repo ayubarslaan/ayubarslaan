@@ -31,11 +31,11 @@ A safety-focused multi-agent healthcare AI system built as part of the **5-Day A
 `Google ADK` · `Gemini` · `Multi-Agent Systems` · `FastAPI` · `Safety Engineering`
 
 ### 🏛️ [Memory Museum](https://github.com/ayubarslaan/memory-museum)
-**AI-powered digital museum · Replit Designathon**
+**AI-powered digital museum · Built with Replit · Replit Designathon**
 
-Transforms personal memories into immersive museum exhibits with cinematic storytelling and a Midnight Luxe museum aesthetic, built for the **Replit Designathon**.
+Transforms personal memories into immersive museum exhibits with cinematic storytelling and a Midnight Luxe museum aesthetic. **Built with Replit for the Replit Designathon**, exploring AI-native UX, storytelling, and digital experience design.
 
-`AI` · `React Native` · `TypeScript` · `Design Systems` · `AI UX`
+`AI` · `React Native` · `TypeScript` · `Design Systems` · `AI UX` · `Replit`
 
 ### 🎬 [Continuity Script Intelligence](https://github.com/ayubarslaan/Continuity-script-intelligence)
 **VERSE · IBM July Challenge / BEMYAAP**
@@ -88,7 +88,7 @@ An AI-powered screenplay intelligence project developed as part of **VERSE**, th
 |---|---|
 | 🤖 **ForgePilot** | Sidequest · Agentic software engineering |
 | 🏥 **MediGuard** | Kaggle × Google · 5-Day AI Agents Intensive |
-| 🏛️ **Memory Museum** | Replit Designathon · AI product engineering |
+| 🏛️ **Memory Museum** | **Built with Replit · Replit Designathon · AI product engineering** |
 | 🎬 **Continuity Script Intelligence** | VERSE / IBM July Challenge / BEMYAAP · LLM + screenplay intelligence |
 | 📰 **WELFake Classification** | ML / NLP foundations |
 
