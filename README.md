@@ -37,10 +37,10 @@ Transforms personal memories into immersive museum exhibits with cinematic story
 
 `AI` · `React Native` · `TypeScript` · `Design Systems` · `AI UX`
 
-### 🎬 [Continuity Script Intelligence](https://github.com/ayubarslaan/Continuity-script-intelligence)
+### 🎬 [VERSE — Continuity Script Intelligence](https://github.com/ayubarslaan/Continuity-script-intelligence)
 **AI-powered screenplay continuity analysis**
 
-Analyzes screenplays and production documents to extract continuity information and identify potential risks using local LLM inference.
+Continuity Script Intelligence is part of **VERSE**, an AI initiative for screenplay and production intelligence. It analyzes screenplays and production documents to extract continuity information and identify potential risks using local LLM inference.
 
 `LLMs` · `FastAPI` · `IBM Granite` · `Ollama` · `Document Intelligence`
 
@@ -85,7 +85,7 @@ Docker · GitHub Actions · Git
 | 🤖 **ForgePilot** | Agentic software engineering |
 | 🏥 **MediGuard** | Multi-agent AI + safety engineering |
 | 🏛️ **Memory Museum** | AI + product engineering |
-| 🎬 **Continuity Script Intelligence** | LLM + document intelligence |
+| 🎬 **VERSE — Continuity Script Intelligence** | LLM + screenplay intelligence |
 | 📰 **WELFake Classification** | ML / NLP foundations |
 
 ---
