@@ -24,11 +24,11 @@ An AI engineering team that turns a GitHub issue into a reviewed pull request th
 `Agent Orchestration` · `GitHub` · `DAG Workflows` · `Verification` · `Human-in-the-loop` · `Codex`
 
 ### 🏥 [MediGuard](https://github.com/ayubarslaan/mediguard)
-**5-Day AI Agents Intensive · Kaggle × Google**
+**Multi-agent healthcare AI · Built with Antigravity · Google ADK · Google Cloud · Kaggle × Google**
 
-A safety-focused multi-agent healthcare AI system built as part of the **5-Day AI Agents Intensive with Kaggle × Google**, covering medication safety analysis, drug interaction checking, allergy screening, dosage validation, patient education, and a mandatory final safety review gate.
+A safety-focused multi-agent healthcare AI system developed during the **Kaggle × Google 5-Day AI Agents Intensive**, using **Antigravity, Google ADK, and Google Cloud**. It covers medication safety analysis, drug interaction checking, allergy screening, dosage validation, patient education, and a mandatory final safety review gate.
 
-`Google ADK` · `Gemini` · `Multi-Agent Systems` · `FastAPI` · `Safety Engineering`
+`Antigravity` · `Google ADK` · `Google Cloud` · `Gemini` · `Multi-Agent Systems` · `Safety Engineering`
 
 ### 🏛️ [Memory Museum](https://github.com/ayubarslaan/memory-museum)
 **AI-powered digital museum · Built with Replit · Replit Designathon**
@@ -38,11 +38,11 @@ Transforms personal memories into immersive museum exhibits with cinematic story
 `AI` · `React Native` · `TypeScript` · `Design Systems` · `AI UX` · `Replit`
 
 ### 🎬 [Continuity Script Intelligence](https://github.com/ayubarslaan/Continuity-script-intelligence)
-**VERSE · IBM July Challenge / BEMYAAP**
+**AI screenplay intelligence · Built with IBM Bob · IBM July Challenge / BEMYAAP**
 
-An AI-powered screenplay intelligence project developed as part of **VERSE**, the IBM July Challenge / BEMYAAP. It analyzes screenplays and production documents to extract continuity information and identify potential risks using local LLM inference.
+An AI-powered screenplay intelligence project developed as part of **VERSE**, the **IBM July Challenge / BEMYAAP**, and built with **IBM Bob**. It analyzes screenplays and production documents to extract continuity information and identify potential risks using local IBM Granite / Ollama inference.
 
-`LLMs` · `FastAPI` · `IBM Granite` · `Ollama` · `Document Intelligence`
+`IBM Bob` · `IBM Granite` · `Ollama` · `FastAPI` · `LLMs` · `Document Intelligence`
 
 ---
 
@@ -84,12 +84,12 @@ An AI-powered screenplay intelligence project developed as part of **VERSE**, th
 
 ## 📌 Featured Projects
 
-| Project | Context / Focus |
+| Project | Context / Build Environment |
 |---|---|
-| 🤖 **ForgePilot** | **Built with OpenAI Codex · Sidequest · Agentic software engineering** |
-| 🏥 **MediGuard** | Kaggle × Google · 5-Day AI Agents Intensive |
-| 🏛️ **Memory Museum** | **Built with Replit · Replit Designathon · AI product engineering** |
-| 🎬 **Continuity Script Intelligence** | VERSE / IBM July Challenge / BEMYAAP · LLM + screenplay intelligence |
+| 🤖 **ForgePilot** | **OpenAI Codex · Sidequest · Agentic software engineering** |
+| 🏥 **MediGuard** | **Antigravity · Google ADK · Google Cloud · Kaggle × Google** |
+| 🏛️ **Memory Museum** | **Replit · Replit Designathon · AI product engineering** |
+| 🎬 **Continuity Script Intelligence** | **IBM Bob · IBM July Challenge / BEMYAAP · LLM + screenplay intelligence** |
 | 📰 **WELFake Classification** | ML / NLP foundations |
 
 ---
