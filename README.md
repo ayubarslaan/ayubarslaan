@@ -17,30 +17,30 @@ Exploring the intersection of **AI Agents, LLM Engineering, Code Intelligence, S
 ## 🚀 What I'm Building
 
 ### 🤖 [ForgePilot](https://github.com/ayubarslaan/ForgePilot)
-**Autonomous Software Engineering Platform**
+**Autonomous Software Engineering Platform · Sidequest**
 
 An AI engineering team that turns a GitHub issue into a reviewed pull request through specialized agents, workflow orchestration, testing, verification, and human approval.
 
 `Agent Orchestration` · `GitHub` · `DAG Workflows` · `Verification` · `Human-in-the-loop`
 
 ### 🏥 [MediGuard](https://github.com/ayubarslaan/mediguard)
-**Safety-focused multi-agent healthcare AI system**
+**5-Day AI Agents Intensive · Kaggle × Google**
 
-A multi-agent clinical AI system built around medication safety analysis, drug interaction checking, allergy screening, dosage validation, patient education, and a mandatory final safety review gate.
+A safety-focused multi-agent healthcare AI system built as part of the **5-Day AI Agents Intensive with Kaggle × Google**, covering medication safety analysis, drug interaction checking, allergy screening, dosage validation, patient education, and a mandatory final safety review gate.
 
 `Google ADK` · `Gemini` · `Multi-Agent Systems` · `FastAPI` · `Safety Engineering`
 
 ### 🏛️ [Memory Museum](https://github.com/ayubarslaan/memory-museum)
-**AI-powered digital museum for preserving memories**
+**AI-powered digital museum · Replit Designathon**
 
-Transforms personal memories into immersive museum exhibits with cinematic storytelling and a Midnight Luxe design system.
+Transforms personal memories into immersive museum exhibits with cinematic storytelling and a Midnight Luxe museum aesthetic, built for the **Replit Designathon**.
 
 `AI` · `React Native` · `TypeScript` · `Design Systems` · `AI UX`
 
-### 🎬 [VERSE — Continuity Script Intelligence](https://github.com/ayubarslaan/Continuity-script-intelligence)
-**AI-powered screenplay continuity analysis**
+### 🎬 [Continuity Script Intelligence](https://github.com/ayubarslaan/Continuity-script-intelligence)
+**VERSE · IBM July Challenge / BEMYAAP**
 
-Continuity Script Intelligence is part of **VERSE**, an AI initiative for screenplay and production intelligence. It analyzes screenplays and production documents to extract continuity information and identify potential risks using local LLM inference.
+An AI-powered screenplay intelligence project developed as part of **VERSE**, the IBM July Challenge / BEMYAAP. It analyzes screenplays and production documents to extract continuity information and identify potential risks using local LLM inference.
 
 `LLMs` · `FastAPI` · `IBM Granite` · `Ollama` · `Document Intelligence`
 
@@ -80,12 +80,12 @@ Docker · GitHub Actions · Git
 
 ## 📌 Featured Projects
 
-| Project | Focus |
+| Project | Context / Focus |
 |---|---|
-| 🤖 **ForgePilot** | Agentic software engineering |
-| 🏥 **MediGuard** | Multi-agent AI + safety engineering |
-| 🏛️ **Memory Museum** | AI + product engineering |
-| 🎬 **VERSE — Continuity Script Intelligence** | LLM + screenplay intelligence |
+| 🤖 **ForgePilot** | Sidequest · Agentic software engineering |
+| 🏥 **MediGuard** | Kaggle × Google · 5-Day AI Agents Intensive |
+| 🏛️ **Memory Museum** | Replit Designathon · AI product engineering |
+| 🎬 **Continuity Script Intelligence** | VERSE / IBM July Challenge / BEMYAAP · LLM + screenplay intelligence |
 | 📰 **WELFake Classification** | ML / NLP foundations |
 
 ---
